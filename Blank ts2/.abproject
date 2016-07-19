@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Blank ts2",
+  "ProjectGuid": "bf98fa77-d59c-48d3-a169-92bacd9e8aa8",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Blankts2",
+  "DisplayName": "Blank ts2",
+  "Author": "",
+  "Description": "Blank ts2",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d63b8442-f59f-4268-bfc6-381820c9b75b}",
+  "WP8ProductID": "{d52dcd6f-4cb3-4d11-a87b-786d4a68549a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Blankts2",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
