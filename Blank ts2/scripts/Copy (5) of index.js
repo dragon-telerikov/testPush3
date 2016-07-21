@@ -35,4 +35,4 @@ var Application;
         console.log('Received Event: ' + id);
     }
 })(Application || (Application = {}));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=Copy (5) of index.js.map
